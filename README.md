@@ -1,6 +1,9 @@
 # movie_recommendation_system
 
 movie recommendation model made on TMDB 5000 movie dataset :- https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
+recommendations made on basis of `cosine similarity`
+
 process of building model :- 
    1. preprocessed the data 
    2.  applied stemming on 'tags' column
