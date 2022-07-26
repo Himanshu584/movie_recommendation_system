@@ -1,5 +1,7 @@
 # movie_recommendation_system
 
+for deployed version of this app visit : https://github.com/Himanshu584/movie-recommender-app
+
 movie recommendation model made on TMDB 5000 movie dataset :- https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 recommendations made on basis of `cosine similarity`
